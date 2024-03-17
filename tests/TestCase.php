@@ -2,9 +2,9 @@
 
 namespace Ajellender\Menus\Tests;
 
+use Ajellender\Menus\MenusServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use Ajellender\Menus\MenusServiceProvider;
 
 class TestCase extends Orchestra
 {
