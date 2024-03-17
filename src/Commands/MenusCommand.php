@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Ajellender\Menus\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class MenusCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'laravel-menus';
 
     public $description = 'My command';
 
